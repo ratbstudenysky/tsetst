@@ -15,10 +15,10 @@ import winsound
 # ==========================================
 
 # 1. Discord Webhook URL
-WEBHOOK_URL = "YOUR_WEBHOOK_URL_HERE"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1468511685038969008/GnAPIrpmkhcJ0lN6R6Uc0sJ_XWRKXeKjVPmnZUwJOIWIQCS9X3L5Oduh29N3x-DgAQ3s"
 
 # 2. Google Gemini API Key (ใส่ Key ที่คุณให้มา)
-GEMINI_API_KEY = "YOUR_API_KEY" 
+GEMINI_API_KEY = "AIzaSyB5pIgp0WOQKo5N-uayPOb9Tr-M8_uooJM" 
 
 # 3. Model Name (ใช้ 2.5 Flash ตามที่ขอ)
 # ตัวเลือก: 'gemini-2.5-flash' (Stable), 'gemini-3-flash-preview' (Newer)
